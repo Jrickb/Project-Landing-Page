@@ -221,3 +221,7 @@ footer {
     border: solid #ffffff 4px;
     text-decoration: none;
   }
+
+  body {
+    margin: 0%;
+  }
