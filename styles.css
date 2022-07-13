@@ -225,3 +225,23 @@ footer {
   body {
     margin: 0%;
   }
+
+  a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #3498db;
+}
+
+a:active {
+    text-decoration: none;
+    color: white;
+}
